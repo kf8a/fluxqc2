@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 gem "backbone-rails"
 gem "jquery-rails"
-gem "rails", "~> 5.2"
+gem "rails", "~> 7.2"
 gem "rake"
 
 gem "carrierwave" # , :git => "git://github.com/carrierwaveuploader/carrierwave.git"
